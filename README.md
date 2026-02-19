@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username-linkedin-kamu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/roysiregar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portofolio-roy-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Live_Web-121212?style=for-the-badge&logo=vercel&logoColor=FFDB70" /></a>
 </div>
 
