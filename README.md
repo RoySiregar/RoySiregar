@@ -28,3 +28,30 @@ Identity:
   Education: B.S. Computer Science (GPA 3.38)
   Domain: Marine, Offshore, Semiconductor & Heavy Manufacturing
   Focus: Project Control Management Systems (PCMS), OEE Monitoring, API Design
+```
+
+### 🛠️ Tech Stack & Industrial Tools
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/.NET%25208-512BD4%3Fstyle%3Dflat-square%26logo%3Ddotnet%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dflat-square%26logo%3Dc-sharp%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dflat-square%26logo%3Dnextdotjs%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MQTT-660066%3Fstyle%3Dflat-square%26logo%3Dmqtt%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
+</p>
+
+### 📊 GitHub Activity & Achievements
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DRoySiregar%26theme%3Dtokyonight%26column%3D7%26margin-w%3D15" alt="Roy's Trophies" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRoySiregar%26show_icons%3Dtrue%26theme%3Dtokyonight%26rank_icon%3Dgithub%26border_radius%3D10" alt="Roy's Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRoySiregar%26theme%3Dtokyonight%26border_radius%3D10" alt="Roy's Streak" />
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Open_for_Collaboration-success%3Fstyle%3Dflat-square" />
+</p>
+
+
